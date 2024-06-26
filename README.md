@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm lisallah</h1>
 <h3 align="center">Hi, I am lisallah! My background is telecommunication engineering, I'm very happy with technology ❤️‍🔥 but currently I'm studying about data science 📊 and artificial intelligence 🤖 
   
-## #30NitesOfCode: [Check out my progress!](https://www.codedex.io/@alla-codedex/30-nites-of-code) ![@alla-codedex #30NitesOfCode](https://www.codedex.io/api/petStatus?user=alla-codedex)</h3>
+## #30NitesOfCode: 
+[Check out my progress!](https://www.codedex.io/@alla-codedex/30-nites-of-code) ![@alla-codedex #30NitesOfCode](https://www.codedex.io/api/petStatus?user=alla-codedex)</h3>
 
 - 🌱 I’m currently learning **NLP, AI, Data Science, QA**
 
@@ -21,6 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lisallah20&show_icons=true&locale=en" alt="lisallah20" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lisallah20&" alt="lisallah20" /></p>
-
-# intro
-profile github
