@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm lisallah</h1>
-<h3 align="center">Hi, I am lisallah! My background is telecommunication engineering, I'm very happy with technology ❤️‍🔥 but currently I'm studying about data science 📊 and artificial intelligence 🤖 
+<h4 align="center">My background is telecommunication engineering, but I'm very happy with technology ❤️‍🔥 currently I'm studying about data science 📊 and artificial intelligence 🤖 
   
-## #30NitesOfCode: 
-[Check out my progress!](https://www.codedex.io/@alla-codedex/30-nites-of-code) ![@alla-codedex #30NitesOfCode](https://www.codedex.io/api/petStatus?user=alla-codedex)</h3>
+### #30NitesOfCode: 
+[Check out my progress!](https://www.codedex.io/@alla-codedex/30-nites-of-code) ![@alla-codedex #30NitesOfCode](https://www.codedex.io/api/petStatus?user=alla-codedex) </h4 align="center">
 
-- 🌱 I’m currently learning **NLP, AI, Data Science, QA**
-
+- 🌱 I’m currently learning **NLP, AI, Data Science, QA and 5G**
 - 📫 How to reach me **lisallah002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
